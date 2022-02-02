@@ -24,7 +24,7 @@ Rest API는 http 프로토콜 위에서 Client가 Server를 호출해서 데이�
 
 >즉, Controller + ResponseBody = RestController라 정의할 수 있다.
 
-### 그렇다면, 왜 Rest방식을 사용하는가?
+## 그렇다면, 왜 Rest방식을 사용하는가?
 
 MVC 패턴에서 데이터를 받아서 화면에 노출 시키는 기능은 `View` 이다. 
 
